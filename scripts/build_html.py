@@ -168,8 +168,7 @@ footer.bottom {{
   <div class="brand">Cork Events<span class="pill">daily</span></div>
   <div class="meta">
     Last updated <time datetime="{iso}">{pretty}</time> ·
-    <a href="archive.html">archive</a> ·
-    <a href="https://github.com/deepakmehta79/career">source</a>
+    <a href="archive.html">archive</a>
   </div>
 </header>
 

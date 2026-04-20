@@ -4,7 +4,7 @@
 
 *Generated 20 April 2026. Sources: UCC alumni portal, UCC upcoming-events page, UCC School of Mathematical Sciences, MTU Eventbrite, Cork University Business School (CUBS), Irish Accounting & Finance Association (IAFA), Cork Chamber, Tech Industry Alliance, International Society for Pharmaceutical Engineering (ISPE) Ireland, plus web search across Meetup and it@cork.*
 
-> **Alumni note:** Deepak is a UCC alum — UCC Alumni Community membership is free and entitles you to invitations to public lectures and alumni events. If you haven't already, update your details on the [UCC alumni portal](https://www.ucc.ie/en/advancement/alumni-benefits/events/) to start receiving invites by email.
+> **UCC alumni:** UCC Alumni Community membership is free and entitles you to invitations to public lectures and alumni events. If you haven't already, update your details on the [UCC alumni portal](https://www.ucc.ie/en/advancement/alumni-benefits/events/) to start receiving invites by email.
 
 ---
 

@@ -1,4 +1,4 @@
-# Deepak's Repo
+# Cork Events Digest
 
 Personal notes, plans, and automations.
 
