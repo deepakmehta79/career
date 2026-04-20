@@ -49,7 +49,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="color-scheme" content="light dark">
 <title>{title}</title>
-<meta name="description" content="Daily auto-generated digest of career-development events, lectures and networking opportunities in Cork, Ireland.">
+<meta name="description" content="Daily auto-generated digest of professional development events, lectures and networking opportunities in Cork, Ireland.">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ctext y='52' font-size='56'%3E%F0%9F%93%85%3C/text%3E%3C/svg%3E">
 <style>
 :root {{
@@ -165,7 +165,7 @@ footer.bottom {{
 <body>
 <div class="wrap">
 <header class="top">
-  <div class="brand">Cork Career Events<span class="pill">daily</span></div>
+  <div class="brand">Cork Events<span class="pill">daily</span></div>
   <div class="meta">
     Last updated <time datetime="{iso}">{pretty}</time> ·
     <a href="archive.html">archive</a> ·
@@ -193,7 +193,7 @@ ARCHIVE_TEMPLATE = """<!DOCTYPE html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="color-scheme" content="light dark">
-<title>Cork Career Events — Archive</title>
+<title>Cork Events — Archive</title>
 <style>
 body {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
        max-width: 760px; margin: 0 auto; padding: 32px 20px; line-height: 1.5;
@@ -211,7 +211,7 @@ li {{ margin: 6px 0; }}
 </head>
 <body>
 <p><a href="index.html">← today's digest</a></p>
-<h1>Cork Career Events — Archive</h1>
+<h1>Cork Events — Archive</h1>
 <p class="muted">All daily digests, newest first.</p>
 <ul>
 {items}
@@ -255,7 +255,7 @@ def build_index() -> None:
     now = dt.datetime.now(dt.timezone.utc)
     # Title pulls from the first H1 in the Markdown, if any.
     first_h1 = re.search(r'^#\s+(.+)$', LATEST_MD.read_text(encoding="utf-8"), re.M)
-    title = html.escape(first_h1.group(1).strip()) if first_h1 else "Cork Career Events"
+    title = html.escape(first_h1.group(1).strip()) if first_h1 else "Cork Events"
 
     index_html = PAGE_TEMPLATE.format(
         title=title,

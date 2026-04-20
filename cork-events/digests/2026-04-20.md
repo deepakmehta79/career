@@ -1,6 +1,6 @@
-# Cork Career Events — 20 April 2026
+# Cork Events — 20 April 2026
 
-**12 career-relevant events in Cork over the next 8 weeks, with a focus on University College Cork (UCC) and Munster Technological University (MTU).**
+**12 relevant events in Cork over the next 8 weeks, with a focus on University College Cork (UCC) and Munster Technological University (MTU).**
 
 *Generated 20 April 2026. Sources: UCC alumni portal, UCC upcoming-events page, UCC School of Mathematical Sciences, MTU Eventbrite, Cork University Business School (CUBS), Irish Accounting & Finance Association (IAFA), Cork Chamber, Tech Industry Alliance, International Society for Pharmaceutical Engineering (ISPE) Ireland, plus web search across Meetup and it@cork.*
 
@@ -21,7 +21,7 @@
 - **When:** 14 May 2026, full day
 - **Where:** Páirc Uí Chaoimh, Cork
 - **Host:** ISPE Ireland Affiliate
-- **Why it matters:** 600+ attendees from Ireland's pharma and life-sciences sector. Strong director-level presence, a 60+ vendor exhibition, and a careers fair co-hosted with the National Institute for Bioprocessing Research and Training (NIBRT). Free to attend — one of the single best Cork rooms for senior pharma/biotech networking this year.
+- **Why it matters:** 600+ attendees from Ireland's pharma and life-sciences sector. Strong director-level presence, a 60+ vendor exhibition, and a recruitment fair co-hosted with the National Institute for Bioprocessing Research and Training (NIBRT). Free to attend — one of the single best Cork rooms for senior pharma/biotech networking this year.
 - **Register / info:** [Irish Tech News — INSPIRE announcement](https://irishtechnews.ie/pharma-and-life-science-professionals-to-meet-at-ispe-irelands-inspire-conference-in-cork/) (Eventbrite: search "ISPE IRE INSPIRE 2026")
 
 ### TechFest 2026: Artificial Intelligence (AI), Technology & The Future
@@ -56,7 +56,7 @@
 
 ### Biotech / Pharma / Life Sciences
 
-- **14 May 2026** — [ISPE Ireland INSPIRE 2026](https://irishtechnews.ie/pharma-and-life-science-professionals-to-meet-at-ispe-irelands-inspire-conference-in-cork/) — 600+ attendee day on pharma manufacturing, digital transformation and workforce, plus a NIBRT careers fair — *Páirc Uí Chaoimh, Cork*
+- **14 May 2026** — [ISPE Ireland INSPIRE 2026](https://irishtechnews.ie/pharma-and-life-science-professionals-to-meet-at-ispe-irelands-inspire-conference-in-cork/) — 600+ attendee day on pharma manufacturing, digital transformation and workforce, plus a NIBRT recruitment fair — *Páirc Uí Chaoimh, Cork*
 
 ### Scientific research (UCC and MTU lectures)
 
