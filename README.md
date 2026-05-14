@@ -1,5 +1,5 @@
-# Cork Events Digest
+# Deepak's Career Repo
 
 Personal notes, plans, and automations.
 
-- [Cork events digest](cork-events/) — daily, auto-generated
+- [Cork career events digest](cork-events/) — daily, auto-generated
