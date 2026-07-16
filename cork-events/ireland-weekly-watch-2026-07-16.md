@@ -21,7 +21,7 @@ EU justice and home affairs ministers meet in Dublin as part of Ireland's Presid
 
 Technical-level EU environment officials convene in Galway to prepare ground for the informal Environment and Climate Ministers meeting later this month.
 
-### Informal Meeting of EU Research and Innovation Ministers
+### Informal Meeting of EU Research and Innovation Ministers *(AI)*
 - **When:** 20–21 July 2026
 - **Where:** Dublin
 - **Info:** [Irish Presidency events](https://irish-presidency.consilium.europa.eu/en/events/)
@@ -42,12 +42,34 @@ EU transport officials meet in Cork to progress dossiers under the Irish Preside
 
 Climate ministers from across the EU meet in Dublin, with energy-transition policy — a core Irish Presidency priority — on the table, including implications for grid capacity and industrial energy users such as data centres.
 
-### IIEA: "Secure Connections — Ireland's Digital Infrastructure and the Resilience of European Connectivity"
+### IIEA: "Secure Connections — Ireland's Digital Infrastructure and the Resilience of European Connectivity" *(AI)*
 - **When:** 23 July 2026
 - **Where:** Institute of International and European Affairs (IIEA), Dublin
 - **Info:** [IIEA events](https://www.iiea.com/events)
 
 A timely policy discussion on the resilience of Ireland's digital and data infrastructure (subsea cables, data centres, connectivity) within the wider European security context — directly relevant to both the geopolitics and AI/supply-chain themes this Watch tracks.
+
+---
+
+## Looking Ahead: Flagship AI Events Hosted in Ireland
+
+*Beyond the two-week window, but worth flagging now since both are official pillars of Ireland's EU Presidency AI agenda — registration and programme details typically open well in advance.*
+
+### International AI Summit 2026 *(AI)*
+- **When:** 14 October 2026
+- **Where:** Dublin
+- **Info:** [International AI Summit](https://internationalaisummit.ie/) · [gov.ie announcement](https://www.gov.ie/en/department-of-enterprise-tourism-and-employment/press-releases/irelands-international-ai-summit-will-officially-launch-european-ai-innovation-month/)
+
+Ireland hosts this flagship summit as the official launch of European AI Innovation Month under its EU Presidency, themed "Harnessing AI to Revolutionise Europe's Competitiveness" — bringing together EU and global leaders, heads of government, CEOs and investors.
+
+### AI in Science Summit 2026 (AIS26) *(AI)*
+- **When:** 15–16 October 2026
+- **Where:** Dublin
+- **Info:** [Irish Presidency events — AIS26](https://irish-presidency.consilium.europa.eu/en/events/ai-in-science-summit-2026-ais26/)
+
+Coordinated by University College Dublin and Research Ireland as part of the Irish Presidency programme, AIS26 is the annual flagship EU conference implementing the European Strategy on AI in Science, exploring how AI can transform scientific research and showcasing initiatives like the Resource for AI Science in Europe (RAISE).
+
+*Note: no additional AI-specific conferences or summits with confirmed dates were found in Ireland for the 16–30 July window itself beyond the two AI-tagged items above; Dublin's recurring AI/ML meetup groups (AI Tinkerers Dublin, Machine Learning Dublin, AI in Action Dublin) had no confirmed dated listings in this window at time of writing.*
 
 ---
 
